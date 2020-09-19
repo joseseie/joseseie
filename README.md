@@ -19,8 +19,20 @@ Veja alguns dos nossos cursos, todos são online.
 ### Nossos cursos online
 
 - [ ] Curso online de programação para iniciante;
+- [ ] Curso online de integração da API de MPesa;
 - [ ] Curso online de criação de aplicativos;
+- [ ] Curso online de Java
 - [ ] Curso online de Laravel;
 - [ ] Curso online de Quasar Framework;
 - [ ] Curso online de Hospedagem;
-- [ ] 
+- [ ] Curso online de criação de aplicativo de Vendas;
+- [ ] Curso online de Flutter;
+- [ ] Curso online de Python;
+- [ ] Curso online de Django;
+- [ ] Curso online de React.js;
+- [ ] Curso online de Vue.js;
+- [ ] Curso online de Github;
+- [ ] Curso online de Laravel + Vue.js + Github.
+
+
+
