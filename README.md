@@ -4,7 +4,7 @@ Este é o meu perfil (não se esqueça de **seguir-me** 😁)
 
 ### Saiba um pouco do que eu faço no resumo abaixo: 
 
-- 🔭 Estou actualmente a trabalhar na plataforma **eVCourses - Nova Plataforma de vídeos e cursos online** 😍, estamos a criar essa plataforma para ajudar a todos a estudar por meio de vídeos de alta qualidade, gravados pelos melhores professores de todo Moçambique, essa plataforma vai funcionar para todos níveis, áreas e cursos. Esperamos lançar até finais de 2020 😍😍.
+- Estou actualmente a trabalhar na plataforma **eVCourses - Nova Plataforma de vídeos e cursos online** 😍, estamos a criar essa plataforma para ajudar a todos a estudar por meio de vídeos de alta qualidade, gravados pelos melhores professores de todo Moçambique, essa plataforma vai funcionar para todos níveis, áreas e cursos. Esperamos lançar até finais de 2020 😍😍.
 
 - Estou actualmente a aprender **Vue.js, React.js, ReactNative, Flutter, Python,...** 🌱 
 
