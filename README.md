@@ -1,6 +1,6 @@
 ### Olá 👋 aqui José Seie
 
-Este é o meu perfil (não se esqueça de **seguir-me** 😁)
+Este é o meu perfil
 
 Se gosta de aprender veja alguns dos cursos que temos tido disponíveis.
 
